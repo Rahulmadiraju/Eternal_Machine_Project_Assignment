@@ -1,7 +1,7 @@
-# Eternal_Machine_Project_Assignment
+# Machine_Project_Assignment
 Django-based REST API for managing machine values. It features JWT authentication and provides full CRUD operations. The project includes an admin panel for managing machine data and users. API endpoints allow for secure creation, retrieval, updating, and deletion of machine values.
 
-# Eternal Machine Project Assignment
+# Machine Project Assignment
 
 This project is a Django-based REST API for managing machine values. It features JWT (JSON Web Token) authentication and provides full CRUD (Create, Read, Update, Delete) operations for machine data. The project also includes an admin panel for easy management of machine values and users.
 
