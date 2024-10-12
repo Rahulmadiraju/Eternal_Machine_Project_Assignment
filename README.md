@@ -27,5 +27,5 @@ Follow the steps below to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Rahulmadiraju/Eternal_Machine_Project_Assignment.git
-cd Eternal_Machine_Project_Assignment
+git clone https://github.com/Rahulmadiraju/Machine_Project_Assignment.git
+cd Machine_Project_Assignment
