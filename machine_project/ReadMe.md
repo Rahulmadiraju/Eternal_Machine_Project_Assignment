@@ -1,4 +1,4 @@
-# Eternal Machine Project Assignment
+# Machine Project Assignment
 
 This project is a Django-based REST API for managing machine values. It features JWT (JSON Web Token) authentication and provides full CRUD (Create, Read, Update, Delete) operations for machine data. The project also includes an admin panel for easy management of machine values and users.
 
@@ -24,5 +24,5 @@ Follow the steps below to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Rahulmadiraju/Eternal_Machine_Project_Assignment.git
-cd Eternal_Machine_Project_Assignment
+git clone https://github.com/Rahulmadiraju/Machine_Project_Assignment.git
+cd Machine_Project_Assignment
